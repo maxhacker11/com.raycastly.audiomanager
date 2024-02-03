@@ -30,7 +30,6 @@ namespace Raycastly.AudioManager
             {
                 var sound = Instantiate(sfx2DSource.gameObject, pos, Quaternion.identity);
                 sound.GetComponent<AudioSource>().PlayOneShot(clip);
-
                 Destroy(sound, clip.length);
             }
         }
