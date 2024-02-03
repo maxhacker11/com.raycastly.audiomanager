@@ -1,0 +1,19 @@
+{
+  "name": "com.raycastly.audiomanager",
+  "version": "1.0.0",
+  "displayName": "Audio Manager",
+  "description": "A simple audio manager. Best used for smaller prototypes and game jams.",
+  "unity": "2021.1",
+  "author": {
+    "name": "Raycastly",
+    "email": "max.jovovic@gmail.com",
+    "url": "https://raycastly.com"
+  },
+  "samples": [
+    {
+      "displayName": "Prefabs",
+      "description": "Ready made prefab and audio mixer that you can drag and drop into your scene.",
+      "path": "Samples~/Prefabs"
+    }
+  ]
+}
